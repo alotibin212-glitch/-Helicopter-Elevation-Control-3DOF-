@@ -36,4 +36,4 @@ The simulation demonstrates stable tracking and rapid recovery from transient os
 ---
 
 ## 👤 Developer
-* Eng. Noura Abbad Al-Qathami
+* Eng. Norah Al-Qathami
